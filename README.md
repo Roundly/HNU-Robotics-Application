@@ -1,10 +1,19 @@
+# 湖南大学机器人学院学生手册
 
-<p align="center">
-  湖大机器人学院基本手册-2024-Fall
-</p>
+---
 
+基于[vuepress-theme-hope](https://theme-hope.vuejs.press/)
 
-### Contributing
+## 构建
 
-- 本手册(仓库)参考南方科技大学飞跃手册，感谢开源！
-- 欢迎本学院同学提issue和PR，请各年级同学联系对应负责人。
+```bash
+pnpm install
+pnpm run dev
+```
+
+## 日志
+
+### 2025.05.24 v2.0.0
+
+- 创世commit
+- 手动转移数据(但缺失date数据)

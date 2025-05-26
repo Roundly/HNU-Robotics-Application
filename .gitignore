@@ -1,9 +1,13 @@
-*.log
-.DS_Store
-/themes/*
-!.gitkeep
-node_modules
-/lib/
-.idea
-.vscode
+# Editor
+.idea/
+.vscode/
+
+# node
+node_modules/
+
+# vuepress
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+
 
