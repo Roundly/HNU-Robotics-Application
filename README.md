@@ -11,9 +11,4 @@ pnpm install
 pnpm run dev
 ```
 
-## 日志
 
-### 2025.05.24 v2.0.0
-
-- 创世commit
-- 手动转移数据(但缺失date数据)
